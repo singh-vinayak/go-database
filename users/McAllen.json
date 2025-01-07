@@ -1,0 +1,12 @@
+{
+	"Name": "McAllen",
+	"Age": 28,
+	"Contact": "33344233",
+	"Company": "Meta",
+	"Address": {
+		"City": "Gurugram",
+		"State": "Uttar Pradesh",
+		"Country": "India",
+		"Pincode": 203021
+	}
+}

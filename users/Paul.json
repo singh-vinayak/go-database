@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 33,
+	"Contact": "23344233",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 4310013
+	}
+}

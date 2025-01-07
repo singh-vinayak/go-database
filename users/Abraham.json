@@ -1,0 +1,12 @@
+{
+	"Name": "Abraham",
+	"Age": 21,
+	"Contact": "23312131333",
+	"Company": "Google",
+	"Address": {
+		"City": "Hyderabad",
+		"State": "Telangana",
+		"Country": "India",
+		"Pincode": 500013
+	}
+}
